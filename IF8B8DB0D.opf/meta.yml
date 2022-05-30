@@ -1,0 +1,36 @@
+id: IF8B8DB0D
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T21:00:19.896964'
+last_modified: '2022-05-30T21:00:19.896969'
+parser: null
+source_metadata:
+  title: Gyarong Khandro Series
+  language: bo
+  description: Our series of texts related to Gyarong Khandro Dechen Wangmo (rgya
+    rong mkha' 'gro bde chen dbang mo, b. 1868), a female treasure-revealer and famed
+    ḍākinī of recent times.
+  volume:
+    f51A5:
+      title: Letter to Gyarong Khandro
+      base_file: f51A5.txt
+      order: 1
+      parent: Letters
+    fDB70:
+      title: 'Vajrakīla Prayer: A Rain of Accomplishments'
+      base_file: fDB70.txt
+      order: 2
+      parent: Lineage Prayers
+    f5A3A:
+      title: Prayer to Gyarong Khandro Dechen Wangmo
+      base_file: f5A3A.txt
+      order: 3
+      parent: Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
